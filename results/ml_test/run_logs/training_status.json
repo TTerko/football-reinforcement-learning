@@ -1,0 +1,65 @@
+{
+    "Reach Target": {
+        "checkpoints": [
+            {
+                "steps": 7432958,
+                "file_path": "results/ml_test/Reach Target/Reach Target-7432958.onnx",
+                "reward": -0.7725870197881823,
+                "creation_time": 1716464397.0964649,
+                "auxillary_file_paths": [
+                    "results/ml_test/Reach Target/Reach Target-7432958.pt"
+                ]
+            },
+            {
+                "steps": 7433048,
+                "file_path": "results/ml_test/Reach Target/Reach Target-7433048.onnx",
+                "reward": -0.010281250710249878,
+                "creation_time": 1716464473.904546,
+                "auxillary_file_paths": [
+                    "results/ml_test/Reach Target/Reach Target-7433048.pt"
+                ]
+            },
+            {
+                "steps": 7499991,
+                "file_path": "results/ml_test/Reach Target/Reach Target-7499991.onnx",
+                "reward": 0.08695652173913043,
+                "creation_time": 1716464601.374518,
+                "auxillary_file_paths": [
+                    "results/ml_test/Reach Target/Reach Target-7499991.pt"
+                ]
+            },
+            {
+                "steps": 7764828,
+                "file_path": "results/ml_test/Reach Target/Reach Target-7764828.onnx",
+                "reward": 0.043478260869565216,
+                "creation_time": 1716464912.534986,
+                "auxillary_file_paths": [
+                    "results/ml_test/Reach Target/Reach Target-7764828.pt"
+                ]
+            },
+            {
+                "steps": 7772152,
+                "file_path": "results/ml_test/Reach Target/Reach Target-7772152.onnx",
+                "reward": 0.007142857249294009,
+                "creation_time": 1716465196.719914,
+                "auxillary_file_paths": [
+                    "results/ml_test/Reach Target/Reach Target-7772152.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 7772152,
+            "file_path": "results/ml_test/Reach Target.onnx",
+            "reward": 0.007142857249294009,
+            "creation_time": 1716465196.719914,
+            "auxillary_file_paths": [
+                "results/ml_test/Reach Target/Reach Target-7772152.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

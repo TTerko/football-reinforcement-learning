@@ -1,0 +1,66 @@
+{
+    "Ronaldo": {
+        "elo": 1438.9843714604287,
+        "checkpoints": [
+            {
+                "steps": 13999986,
+                "file_path": "results/ml_test_6/Ronaldo/Ronaldo-13999986.onnx",
+                "reward": 0.88261538202946,
+                "creation_time": 1716527979.6009421,
+                "auxillary_file_paths": [
+                    "results/ml_test_6/Ronaldo/Ronaldo-13999986.pt"
+                ]
+            },
+            {
+                "steps": 14499971,
+                "file_path": "results/ml_test_6/Ronaldo/Ronaldo-14499971.onnx",
+                "reward": 0.8588271177926305,
+                "creation_time": 1716529053.811532,
+                "auxillary_file_paths": [
+                    "results/ml_test_6/Ronaldo/Ronaldo-14499971.pt"
+                ]
+            },
+            {
+                "steps": 14999977,
+                "file_path": "results/ml_test_6/Ronaldo/Ronaldo-14999977.onnx",
+                "reward": 0.8866712299928273,
+                "creation_time": 1716530132.336894,
+                "auxillary_file_paths": [
+                    "results/ml_test_6/Ronaldo/Ronaldo-14999977.pt"
+                ]
+            },
+            {
+                "steps": 15098996,
+                "file_path": "results/ml_test_6/Ronaldo/Ronaldo-15098996.onnx",
+                "reward": 0.8760271270089908,
+                "creation_time": 1716530403.2358148,
+                "auxillary_file_paths": [
+                    "results/ml_test_6/Ronaldo/Ronaldo-15098996.pt"
+                ]
+            },
+            {
+                "steps": 15112782,
+                "file_path": "results/ml_test_6/Ronaldo/Ronaldo-15112782.onnx",
+                "reward": 0.8805475339923107,
+                "creation_time": 1716540639.264578,
+                "auxillary_file_paths": [
+                    "results/ml_test_6/Ronaldo/Ronaldo-15112782.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 15112782,
+            "file_path": "results/ml_test_6/Ronaldo.onnx",
+            "reward": 0.8805475339923107,
+            "creation_time": 1716540639.264578,
+            "auxillary_file_paths": [
+                "results/ml_test_6/Ronaldo/Ronaldo-15112782.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

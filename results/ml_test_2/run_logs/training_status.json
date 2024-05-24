@@ -1,0 +1,47 @@
+{
+    "Reach Target": {
+        "checkpoints": [
+            {
+                "steps": 499977,
+                "file_path": "results/ml_test_2/Reach Target/Reach Target-499977.onnx",
+                "reward": 0.11573033746373787,
+                "creation_time": 1716465812.1642728,
+                "auxillary_file_paths": [
+                    "results/ml_test_2/Reach Target/Reach Target-499977.pt"
+                ]
+            },
+            {
+                "steps": 999989,
+                "file_path": "results/ml_test_2/Reach Target/Reach Target-999989.onnx",
+                "reward": 0.16666666542490324,
+                "creation_time": 1716466393.172813,
+                "auxillary_file_paths": [
+                    "results/ml_test_2/Reach Target/Reach Target-999989.pt"
+                ]
+            },
+            {
+                "steps": 1127781,
+                "file_path": "results/ml_test_2/Reach Target/Reach Target-1127781.onnx",
+                "reward": 0.15769230825110123,
+                "creation_time": 1716466543.1148238,
+                "auxillary_file_paths": [
+                    "results/ml_test_2/Reach Target/Reach Target-1127781.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1127781,
+            "file_path": "results/ml_test_2/Reach Target.onnx",
+            "reward": 0.15769230825110123,
+            "creation_time": 1716466543.1148238,
+            "auxillary_file_paths": [
+                "results/ml_test_2/Reach Target/Reach Target-1127781.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}
